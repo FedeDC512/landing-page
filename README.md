@@ -1,2 +1,2 @@
-# Landing Page
-The landing page consists of a hero section with a header, main text, and image, followed by a section displaying information, a quote section, a call-to-action section, and a footer. The design is minimalistic and uses a blue color scheme.
+# KoalaCoding Co. Landing Page
+This project features a landing page for a fictitious company, KoalaCoding Co., designed and developed using HTML and CSS. The landing page includes an interactive header with the company name, logo, and placeholder links. Additionally, it features an "Welcome" section with descriptive text and an image, an "About Us" section showcasing four images with corresponding text, a section displaying a company quote, and a call-to-action section inviting users to choose KoalaCoding Co. with a dedicated "Choose us!" button. Finally, the page includes a footer with my name.
